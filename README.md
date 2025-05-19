@@ -32,21 +32,16 @@ Este projeto usa **análise de dados** e **machine learning** para prever se um 
 
 ---
 
-## 🖼️ Aqui está a aparesentação da análise dos Pokémons lendários vs comuns.
+## Apresentação da análise dos Pokémons lendários vs comuns.
 [Link da Apresentação](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/Apresentacao_Explorando_%20os_dados_para_definir_lendarios.pdf)
 
-## Aqui está o link do código.
+## Link do notebook.
 
 [Link Código](https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/Pok%C3%A9mon_Explorando_os_dados_para_definir_lend%C3%A1rios.ipynb)
 
-
-<p align="center">
-  <img src="https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/top_5.png?raw=true" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/giseleoliver9/Pokemon_explorando_os_dados_para_definir_lendarios/blob/main/download.png?raw=true" width="500"/>
-</p>
-
-
 ---
+
+## 🎙️ Extras
+Podcast: [O Segredo dos Pokémons Lendários](https://open.spotify.com/episode/44gZa22OyQ8L4EBoX6a6U4?si=1bSBGseaQ4K0h4BeBZJHKQ)
+
+Episódio do InsightCast em que exploro os dados por trás dos Pokémons Lendários e o que eles revelam sobre mitos e cultura pop.
