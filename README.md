@@ -44,4 +44,4 @@ Este projeto usa **análise de dados** e **machine learning** para prever se um 
 ## 🎙️ Extras
 Podcast: [O Segredo dos Pokémons Lendários](https://open.spotify.com/episode/44gZa22OyQ8L4EBoX6a6U4?si=1bSBGseaQ4K0h4BeBZJHKQ)
 
-Episódio do InsightCast em que exploro os dados por trás dos Pokémons Lendários e o que eles revelam sobre mitos e cultura pop.
+Episódio do InsightCast em que exploro os dados por trás dos Pokémons Lendários. 
